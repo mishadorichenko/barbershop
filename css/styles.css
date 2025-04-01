@@ -64,6 +64,7 @@ button {
 
 .nav-list {
 }
+
 .nav__link,
 .header__contact {
   font-size: 12px;
@@ -130,8 +131,10 @@ button {
 
 .about {
 }
+
 .about__images-list {
 }
+
 .about__image {
 }
 
@@ -172,102 +175,237 @@ button {
 
 .services {
 }
+
 .service__text {
   font-size: 11px;
   text-transform: uppercase;
   color: rgba(157, 164, 189, 0.6);
 }
+
 .service__title {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  color: #fff;
 }
+
 .services__list {
 }
+
 .services__item {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 167%;
+  letter-spacing: 0.02em;
+  color: #9da4bd;
 }
+
 .services__item-name {
 }
+
 .services__item-price {
 }
+
 .benefits {
 }
+
 .benefits__list {
 }
+
 .benefits__item {
 }
+
 .benefits__item-number {
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  text-align: center;
+  color: #303030;
 }
+
 .benefits__item-description {
+  font-size: 11px;
+  text-align: center;
+  color: #303030;
 }
+
 .benefits__old-school {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #303030;
 }
+
 .benefits__title {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  color: #303030;
 }
+
 .benefits__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+  color: #555;
 }
+
 .barbers {
 }
+
 .barbers__text {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #303030;
 }
+
 .barbers__title {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  color: #303030;
 }
+
 .barbers__list {
 }
+
 .barbes__item {
 }
+
 .barbers__image {
 }
+
 .barbers__name {
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #303030;
 }
+
 .barbers__role {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ff6c00;
 }
+
 .barbers__social-links {
 }
+
 .barbers__social-item {
 }
+
 .barbers__social-link {
 }
+
 .barbers__social-icon {
 }
+
 .gallery {
 }
+
 .gallery__title {
 }
+
 .gallery__text {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #303030;
 }
+
 .gallery__images {
 }
+
 .gallery__image {
 }
+
 .booking {
 }
+
 .booking__title {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  color: #fff;
 }
+
 .contacts {
 }
+
 .contacts__title {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  color: #fff;
 }
+
 .contacts__address {
 }
+
 .contacts__list {
 }
+
 .contacts__item {
 }
-.contacts__location {
-}
-.contacts__phone {
-}
+
+.contacts__location,
+.contacts__phone,
 .contacts__email {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+  color: #9da4bd;
 }
+
+.contacts__phone {
+  font-weight: 400;
+}
+
+.contacts__email {
+  font-weight: 400;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
 .working-text {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #fff;
 }
+
 .working-hours {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+  color: #9da4bd;
 }
+
 .footer {
 }
+
 .footer__copyright {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: #9da4bd;
 }
+
 .footer__social-list {
 }
+
 .footer__social-item {
 }
+
 .footer__social-link {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: #303030;
 }
